@@ -6,7 +6,7 @@
 - 💬 Student in Computer Science at the Federal University Fronteira Sul 
 - 📫 Backend Programmer at Compass.uol
 - 😄 contact: lubinsebastienlionel@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .....
 
 
 <div align="center">
