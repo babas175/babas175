@@ -1,4 +1,4 @@
-### Hi there My name is Sebastien Lionel Lubin👋
+### Hi there my name is Sebastien Lionel Lubin👋
 
 
 
