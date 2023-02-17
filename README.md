@@ -4,7 +4,7 @@
 
 - 😄 I am from Haiti
 - 💬 Student in Computer Science at the Federal University Fronteira Sul 
-- 📫 Backend Programmer at Compass.uol
+- 📫 Backend Programmer 
 - 😄 Contact: lubinsebastienlionel@gmail.com
 - ⚡ Fun fact: .....
 
