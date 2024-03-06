@@ -7,6 +7,18 @@
 - 📫 Backend Programmer 
 - 😄 Contact: lubinsebastienlionel@gmail.com
 - ⚡ Fun fact: .....
+- Software developer with experience in projects involving Backend For Frontend and Microservices. Throughout my career, I have contributed to the development of high-quality software solutions for clients across various industries.
+
+-  My key responsibilities have included:
+
+-  Collaborating with front-end and product teams to design and develop scalable and high-quality backend solutions.
+Writing clean and readable code in multiple programming languages and frameworks, including Java, Python, and Node.js.
+Creating and maintaining scalable and distributed microservices using technologies such as Docker, Kubernetes, and AWS.
+Participating in the architecture, design, and implementation of distributed systems.
+Implementing automated tests to ensure software quality and stability.
+Identifying and resolving performance and scalability issues in distributed systems.
+Documenting developed systems and keeping documentation up to date.
+Working collaboratively with other developers, software architects, and IT professionals.
 
 
 <div align="center">
