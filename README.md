@@ -11,7 +11,7 @@
 
 -  My key responsibilities have included:
 
--  Collaborating with front-end and product teams to design and develop scalable and high-quality backend solutions.
+   Collaborating with front-end and product teams to design and develop scalable and high-quality backend solutions.
 Writing clean and readable code in multiple programming languages and frameworks, including Java, Python, and Node.js.
 Creating and maintaining scalable and distributed microservices using technologies such as Docker, Kubernetes, and AWS.
 Participating in the architecture, design, and implementation of distributed systems.
