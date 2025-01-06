@@ -3,7 +3,7 @@
 
 
 - 😄 I am from Haiti
-- 💬 Student in Computer Science at the Federal University Fronteira Sul 
+- 💬 Computer Science at the Federal University Fronteira Sul 
 - 📫 Backend Programmer 
 - 😄 Contact: lubinsebastienlionel@gmail.com
 - ⚡ Fun fact: .....
