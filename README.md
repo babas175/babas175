@@ -1,45 +1,65 @@
-### Hi there 👋 my name is Sebastien Lionel Lubin
+<h1 align="center">Hi there 👋 I'm Sebastien Lionel Lubin</h1>
 
+<p align="center">
+  💻 Backend Developer | 🎓 Computer Science Student at <strong>UFFS</strong> | 🌍 From Haiti
+</p>
 
+<p align="center">
+  <a href="mailto:lubinsebastienlionel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sebastien-lionel-lubin-a3691b1a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 😄 I am from Haiti
-- 💬 Computer Science at the Federal University Fronteira Sul 
-- 📫 Backend Programmer 
-- 😄 Contact: lubinsebastienlionel@gmail.com
-- ⚡ Fun fact: .....
-- Software developer with experience in projects involving Backend For Frontend and Microservices. Throughout my career, I have contributed to the development of high-quality software solutions for clients across various industries.
+---
 
--  My key responsibilities have included:
+### 💡 About Me
 
-   Collaborating with front-end and product teams to design and develop scalable and high-quality backend solutions.
-Writing clean and readable code in multiple programming languages and frameworks, including Java, Python, and Node.js.
-Creating and maintaining scalable and distributed microservices using technologies such as Docker, Kubernetes, and AWS.
-Participating in the architecture, design, and implementation of distributed systems.
-Implementing automated tests to ensure software quality and stability.
-Identifying and resolving performance and scalability issues in distributed systems.
-Documenting developed systems and keeping documentation up to date.
-Working collaboratively with other developers, software architects, and IT professionals.
+I'm a passionate **software developer** specialized in **Backend for Frontend (BFF)** and **Microservices Architecture**.  
+I strive to build scalable, maintainable, and high-quality software systems that deliver real value.
 
+---
+
+### 🔧 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/babas175">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babas175&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babas175&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+
+---
+
+### 🧩 Key Responsibilities
+
+- 🛠️ Collaborating with product and frontend teams to design scalable backend systems  
+- 🧾 Writing clean code using **Java**, **Python**, and **Node.js**  
+- 📦 Building and maintaining **microservices** with **Docker**, **Kubernetes**, and **AWS**  
+- 🧪 Implementing automated tests and ensuring system reliability  
+- 📈 Identifying and solving performance bottlenecks  
+- 📚 Keeping documentation updated and sharing knowledge with the team  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babas175&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babas175&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:lubinsebastienlionel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sebastien-lionel-lubin-a3691b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+---
+
+### ⚡ Fun Fact
+
+> I’m passionate about using code to create meaningful solutions — and I always enjoy learning new tools and technologies! 🚀
+
+---
+
+
