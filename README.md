@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sebastien Lionel Lubin</h1>
 
 <p align="center">
-  💻 Backend Developer | 🎓 Computer Science at <strong>UFFS</strong> | 🌍 From Haiti
+  💻 Full Stack Developer | 🎓 Computer Science at <strong>UFFS</strong> | 🌍 From Haiti
 </p>
 
 <p align="center">
